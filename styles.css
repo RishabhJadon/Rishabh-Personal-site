@@ -1,0 +1,148 @@
+body {
+  color: #40514e;
+  text-align: center;
+  font-family: 'Metal Mania', cursive;
+  margin: 0;
+}
+
+h2, h3 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 40px;
+  color: #11999e;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 90px;
+  color: #66bfbf;
+}
+
+span {
+  color: red;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 200px;
+  left: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top {
+  padding: 100px;
+  background-color: #cff6cf;
+}
+
+.skills {
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  margin: 20px 30px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+.contact-messege {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+/*{
+  background-color: #e5cfe5;
+  height: 200px;
+  width: 200px;
+  border: solid black 10px;
+  padding:20px;
+}*/
+/* .middle
+{
+ background-color: red;
+  height: 200px;
+  width: 200px;
+  border: solid black 20px;
+  margin-left:260px;
+  }*/
+/* .bottom
+{
+ background-color: yellow;
+  height: 200px;
+  width: 200px;
+  border: solid black 10px;
+  margin-left:500px;
+}*/
+.crown {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Computer {
+  width: 50%;
+  text-align: left;
+  margin: 50px auto;
+}
+
+.computer-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+hr {
+  border: dotted grey 6px;
+  border-bottom: 0;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.myButton {
+  background: linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+  background-color: #11cdd4;
+  border-radius: 8px;
+  border: 1px solid #0fffff;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  margin-bottom: 50px;
+  font-size: 20px;
+  padding: 18px 31px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #30e3cb;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #11999e 5%, #11cdd4 100%);
+  background-color: #11999e;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px;
+}
